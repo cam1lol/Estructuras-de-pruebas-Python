@@ -5,7 +5,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PEP8](https://img.shields.io/badge/Code%20Style-PEP8-1f6feb?style=for-the-badge)
-![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-%20Desarrado-blue?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 </div>
